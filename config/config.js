@@ -1,0 +1,1 @@
+module.exports.SEED = '@45_seed_*0/.ñ34!2';
